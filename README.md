@@ -34,4 +34,4 @@ Here are some ideas to get you started:
 ![JIRA](https://img.shields.io/badge/-JIRA-0052CC?style=flat-square&logo=jira)
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=Erikomoreira&count_private=true&theme=dark&show_icons=true&include_all_commits=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Erikomoreira&theme=dark&hide=TeX&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Erikomoreira&theme=dark&hide=TeX&layout=compact&langs_count=8)
